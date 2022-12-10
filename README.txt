@@ -7,7 +7,7 @@
 4. [git checkout -b fix1] creates new branch and now HEAD points to this branch.
 
 
-## Going Back:
+## **Going Back**:
 
 #### If changes are pushed :
 -------------------------
