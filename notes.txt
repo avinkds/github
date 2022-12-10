@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 miki
+=======
+miki :-
+>>>>>>> 7ab132541c674653d8ddef2955693415fbf78f66
 =====
 
 1. create a projects directory.
