@@ -1,4 +1,4 @@
-mikix
+MIKI
 
 1. create a projects directory.
 2. [git clone -b devbranch git@github.com:avinkds/github.git]
@@ -26,5 +26,4 @@ Git reset modes: https://stackoverflow.com/a/50022436
 --hard: uncommit + unstage + delete changes, nothing left.
 
 
-
-Git push --force --> dangerous. it forces local repository to remote. other developers changes will be replaced.
+Followed by a Git push --force --> dangerous. it forces local repository to remote. other developers changes will be replaced.
