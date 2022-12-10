@@ -1,0 +1,11 @@
+https://dockerlabs.collabnix.com/beginners/dockerfile/lab1_dockerfile_git.html
+
+
+
+docker run -itd gitapline /bin/sh
+
+
+git checkout -b main
+git config --global user.email "avink.ds@gmail.com"
+git remote add origin git@github.com:avink.ds/github.git
+git push -u origin main
