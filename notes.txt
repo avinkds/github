@@ -34,3 +34,10 @@ Followed by a Git push --force --> dangerous. it forces local repository to remo
 	every time we can just run this to know the variance between local and remote repositories.
 #git pull
 	This fetches both.
+
+
+#Undo merge commit
+https://www.git-tower.com/learn/git/faq/undo-git-merge
+
+git revert -m 1 <merge-commit-hash>
+-m 1 option tells Git that we want to keep the parent side of the merge (
