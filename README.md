@@ -38,3 +38,7 @@ Followed by a Git push --force --> dangerous. it forces local repository to remo
 	every time we can just run this to know the variance between local and remote repositories.
 ##### git pull
 	This fetches both.
+	
+### revert merge commit
+
+git revert -m 1 <merge-commit-hash> ( Here 1 suggest to keep parent  which is the branch we had merged into)
